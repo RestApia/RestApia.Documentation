@@ -7,25 +7,21 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Description 🐞
+Oops! It looks like you've stumbled upon a bug. We'd love to get it fixed for you. Can you describe what's going wrong? Just a clear and simple explanation of the issue would be super helpful.
 
-**To Reproduce**
+## Steps to Reproduce 🕵️
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+- Go to '...'
+- Click on '....'
+- See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected Behavior 🌈
+Tell us what you expected to happen. This helps us understand the issue better.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Visual Clues 📸
+Got screenshots? Great! Attach them here to show us exactly what you saw.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+ - OS: [e.g. win x64]
+ - Version [e.g. 0.1.2]
